@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>sai.org</groupId>
     <artifactId>app3</artifactId>
-    <version>1.0-RELEASE</version>
+    <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
     <name>app3 Webapp</name>
     <url>http://maven.apache.org</url>
