@@ -128,13 +128,7 @@
                                 <daemon>true</daemon>
                             </configuration>
                         </execution>
-                        <execution>
-                            <id>stop-jetty</id>
-                            <phase>post-integration-test</phase>
-                            <goals>
-                                <goal>stop</goal>
-                            </goals>
-                        </execution>
+                        
                     </executions>
                 </plugin>
             </plugins>
